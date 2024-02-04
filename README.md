@@ -14,4 +14,5 @@ The objective of this study is to construct a statistical model to explain the b
 This repository is organised as follows: 
 
 - All the datasets are contained in the `data` folder. 
+- The events csv file are too heavy and therefore not included in this repository
 - Regarding our models and studies, they will be separated in different Python notebooks contained in the `notebook` folder. 
